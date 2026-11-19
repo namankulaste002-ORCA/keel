@@ -1,0 +1,6 @@
+.git
+.github
+*.out
+.env
+.env.local
+bin
